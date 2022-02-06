@@ -1,5 +1,5 @@
 # LAMP-WITH-SSL
-Es un script que cuando lo ejectuas instala automáticamente LAMP con un firewall básico de ufw y ssl de let's encrypt.
+Es un script que cuando lo ejectuas instala automáticamente LAMP con un firewall básico de ufw y ssl de let's encrypt. <br>
 ![background](https://user-images.githubusercontent.com/62146446/152696670-7ed7ae40-04f7-42a9-9699-06447522e14c.gif)
 
 
