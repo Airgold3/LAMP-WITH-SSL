@@ -11,8 +11,8 @@
     Purple='\033[0;35m'       # Purple
     Cyan='\033[0;36m'         # Cyan
 
-    domain="candado-verde.tk";
-    email="airgold3yt@gmail.com";
+    domain="PUTYOURDOMAIN";
+    email="PUTYOUREMAIL";
 
     if [ $(id -u) = 0 ]; then
         echo -e "$Green    
