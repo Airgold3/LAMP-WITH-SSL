@@ -1,5 +1,5 @@
 # LAMP-WITH-SSL
-
+Es un script que cuando lo ejectuas instala automáticamente LAMP con un firewall básico de ufw y ssl de let's encrypt.
 ![background](https://user-images.githubusercontent.com/62146446/152696670-7ed7ae40-04f7-42a9-9699-06447522e14c.gif)
 
 
@@ -8,16 +8,15 @@
   
 <img src="https://img.shields.io/badge/OS-Ubuntu 20.04-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Autor-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/Licencia-MIT-brightgreen?style=for-the-badge&logo="> 
 </div>
-## ¿QUÉ TIENE?
+
+## CONTENIDO 📁
 <ul>
-  <li>
-    APACHE2
-    MYSQL
-    PHPMYADMIN
-    PHP
-    UFW (FIREWALL)
-    SSL (LET'S ENCRYPT)
-  </li>
+    <li><a>APACHE2</a></li>
+    <li><a>MYSQL</a></li>
+    <li><a>PHPMYADMIN</a></li>
+    <li><a>PHP</a></li>
+    <li><a>UFW (FIREWALL)</a></li>
+    <li><a>SSL (LET'S ENCRYPT)</a></li>
 </ul>
 
 ## CÓMO UTILIZAR 📚
