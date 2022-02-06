@@ -12,7 +12,7 @@ Es un script que cuando lo ejectuas instala automáticamente LAMP con un firewal
 
 ## CONTENIDO 📁
 <ul>
-    <li><a>APACHE2</a></li>
+    <li><a>APACHE</a></li>
     <li><a>MYSQL</a></li>
     <li><a>PHPMYADMIN</a></li>
     <li><a>PHP</a></li>
